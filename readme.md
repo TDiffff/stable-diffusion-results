@@ -2,6 +2,7 @@
 
 ## Pass 0 : 
 ![stable-diffusion output](00009.png)
+
 (704 x 512)
 ### Upscaled
 ![stable-diffusion output upscaled pass 0](00009u.png)
