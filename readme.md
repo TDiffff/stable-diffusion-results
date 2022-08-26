@@ -1,9 +1,27 @@
+# Stable Diffusion Upscaling
 
+## Pass 0 : 
 ![stable-diffusion output](00009.png)
+(704 x 512)
+### Upscaled
 ![stable-diffusion output upscaled pass 0](00009u.png)
+(1408 x 1024)
+### Detailed
 ![stable-diffusion output upscaled pass 0 detailed](00009ud.png)
+(1408 x 1024)
+## Pass 1 :
+### Upscaled
 ![stable-diffusion output upscaled pass 1 detailed upscaled](00009udu.png)
-![stable-diffusion output upscaled pass 2 detailed](00009udud.png)
+(2816 x 2048)
+### Detailed
+![stable-diffusion output upscaled pass 1 detailed](00009udud.png)
+(2816 x 2048)
+
+## Pass 2 : 
+### Upscaled
 ![stable-diffusion output upscaled pass 2 detailed upscaled](00009ududu.png)
-![stable-diffusion output upscaled pass 3 detailed](00009ududud.png)
+(5632 x 4096)
+### Detailed
+![stable-diffusion output upscaled pass 2detailed](00009ududud.png)
+
 ![stable-diffusion output upscaled pass 3 detailed upscaled](00009udududu.png)
