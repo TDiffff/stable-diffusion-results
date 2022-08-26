@@ -16,7 +16,6 @@
 ### Detailed
 ![stable-diffusion output upscaled pass 1 detailed](00009udud.png)
 (2816 x 2048)
-
 ## Pass 2 : 
 ### Upscaled
 ![stable-diffusion output upscaled pass 2 detailed upscaled](00009ududu.png)
